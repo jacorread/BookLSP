@@ -1,0 +1,24 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Introducción}{iii}{chapter*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}About literature}{iii}{section.0.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Introducción}{v}{chapter*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}About literature}{v}{section.0.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline La reducción fonética de las vocales}{vii}{chapter*.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Propiedades léxicas}{vii}{section.0.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Corpus}{ix}{chapter*.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Corpus}{xi}{chapter*.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Index}{xiii}{section*.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Name index}{xiii}{section*.12}%
+\defcounter {refsection}{0}\relax 
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

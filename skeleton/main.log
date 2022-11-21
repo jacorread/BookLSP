@@ -1,0 +1,3255 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.1.31)  9 JUN 2022 20:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (./langscibook.cls
+Document Class: langscibook 2021/02/17 Language Science Press
+(c:/texlive/2021/texmf-dist/tex/latex/silence/silence.sty
+Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error mes
+sages
+\sl@Save=\count181
+\sl@StateNumber=\count182
+\sl@MessageCount=\count183
+\sl@Casualties=\count184
+\sl@Filter=\toks16
+\sl@Message=\toks17
+\sl@UnexpandedMessage=\toks18
+\sl@Mess@ge=\toks19
+\sl@WarningCount=\count185
+\sl@WarningNumber=\count186
+\sl@WarningCasualties=\count187
+\sl@TempBOW=\toks20
+\sl@BankOfWarnings=\toks21
+LaTeX Info: Redefining \GenericWarning on input line 433.
+\sl@ErrorCount=\count188
+\sl@ErrorNumber=\count189
+\sl@ErrorCasualties=\count190
+\sl@TempBOE=\toks22
+\sl@BankOfErrors=\toks23
+LaTeX Info: Redefining \GenericError on input line 601.
+)
+Warnings are disabled in langscibook.cls for underfull boxes, hyperref, microty
+pe and scrbook package incompatibility, todonotes length and babel/polyglossia 
+csquotes
+(c:/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count191
+)
+(c:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+
+(c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-01-12 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count192
+\l__color_backend_stack_int=\count193
+\g__color_backend_stack_int=\count194
+\g__graphics_track_int=\count195
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count196
+\g__pdf_backend_annotation_int=\count197
+\g__pdf_backend_link_int=\count198
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+) (./langsci-affiliations.sty
+Package: langsci-affiliations 2021-02-17 v1.0.1 A LaTeX3 package to collect and
+ order authors and affiliations
+\l__affiliations_tmpa_int=\count199
+)
+(c:/texlive/2021/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(c:/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2021/11/13 v3.35 KOMA-Script document class (book)
+(c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+
+(c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+
+
+(c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(c:/texlive/2021/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2021/11/13 v3.35 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box51
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 137.
+Class scrbook Info: File `scrsize11pt.clo' used to setup font sizes on input li
+ne 2490.
+
+(c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2021/11/13 v3.35 KOMA-Script font size class option (11pt
+)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2021/11/13 v3.35 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count266
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 47.2316pt
+(typearea)              \oddsidemargin  = -12.5192pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1743.
+)
+\c@part=\count267
+\c@chapter=\count268
+\c@section=\count269
+\c@subsection=\count270
+\c@subsubsection=\count271
+\c@paragraph=\count272
+\c@subparagraph=\count273
+\scr@dte@chapter@maxnumwidth=\skip53
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\chapter on input line 5715.
+\scr@dte@section@maxnumwidth=\skip54
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\section on input line 5726.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\section on input line 5726.
+\scr@dte@part@maxnumwidth=\skip55
+Class scrbook Info: using compatibility default `afterindent=true'
+(scrbook)           for `\part on input line 5735.
+\scr@dte@subsection@maxnumwidth=\skip56
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsection on input line 5745.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsection on input line 5745.
+\scr@dte@subsubsection@maxnumwidth=\skip57
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsubsection on input line 5755.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsubsection on input line 5755.
+\scr@dte@paragraph@maxnumwidth=\skip58
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\paragraph on input line 5766.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\paragraph on input line 5766.
+\scr@dte@subparagraph@maxnumwidth=\skip59
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subparagraph on input line 5776.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subparagraph on input line 5776.
+\abovecaptionskip=\skip60
+\belowcaptionskip=\skip61
+\c@pti@nb@sid@b@x=\box52
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6962.
+
+\scr@dte@figure@maxnumwidth=\skip62
+\c@figure=\count274
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6978.
+
+\scr@dte@table@maxnumwidth=\skip63
+\c@table=\count275
+Class scrbook Info: Redefining `\numberline' on input line 7146.
+\bibindent=\dimen138
+)
+(c:/texlive/2021/texmf-dist/tex/generic/xstring/xstring.sty
+(c:/texlive/2021/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count276
+\decimalpart=\count277
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(c:/texlive/2021/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language87
+LaTeX Info: Redefining \_ on input line 43.
+)
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks25
+\pgfutil@tempdima=\dimen141
+\pgfutil@tempdimb=\dimen142
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
+) (c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box53
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks26
+\pgfkeys@temptoks=\toks27
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks28
+))
+\pgf@x=\dimen143
+\pgf@y=\dimen144
+\pgf@xa=\dimen145
+\pgf@ya=\dimen146
+\pgf@xb=\dimen147
+\pgf@yb=\dimen148
+\pgf@xc=\dimen149
+\pgf@yc=\dimen150
+\pgf@xd=\dimen151
+\pgf@yd=\dimen152
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count278
+\c@pgf@countb=\count279
+\c@pgf@countc=\count280
+\c@pgf@countd=\count281
+\t@pgf@toka=\toks29
+\t@pgf@tokb=\toks30
+\t@pgf@tokc=\toks31
+\pgf@sys@id@count=\count282
+ (c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)
+\pgfsys@objnum=\count283
+)))
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count284
+\pgfsyssoftpath@bigbuffer@items=\count285
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen153
+\pgfmath@count=\count286
+\pgfmath@box=\box54
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)))
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count287
+))
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen154
+\pgf@picmaxx=\dimen155
+\pgf@picminy=\dimen156
+\pgf@picmaxy=\dimen157
+\pgf@pathminx=\dimen158
+\pgf@pathmaxx=\dimen159
+\pgf@pathminy=\dimen160
+\pgf@pathmaxy=\dimen161
+\pgf@xx=\dimen162
+\pgf@xy=\dimen163
+\pgf@yx=\dimen164
+\pgf@yy=\dimen165
+\pgf@zx=\dimen166
+\pgf@zy=\dimen167
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen168
+\pgf@path@lasty=\dimen169
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen170
+\pgf@shorten@start@additional=\dimen171
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count288
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen172
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen173
+\pgf@pt@y=\dimen174
+\pgf@pt@temp=\dimen175
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen176
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen177
+\pgf@sys@shading@range@num=\count289
+\pgf@shadingcount=\count290
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box58
+))
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (c:/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box59
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen178
+\pgf@nodesepend=\dimen179
+)
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen180
+\pgffor@skip=\dimen181
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
+))
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count291
+\pgfplotmarksize=\dimen182
+)
+\tikz@lastx=\dimen183
+\tikz@lasty=\dimen184
+\tikz@lastxsaved=\dimen185
+\tikz@lastysaved=\dimen186
+\tikz@lastmovetox=\dimen187
+\tikz@lastmovetoy=\dimen188
+\tikzleveldistance=\dimen189
+\tikzsiblingdistance=\dimen190
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count292
+\tikznumberofchildren=\count293
+\tikznumberofcurrentchild=\count294
+\tikz@fig@count=\count295
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count296
+\pgfmatrixcurrentcolumn=\count297
+\pgf@matrix@numberofcolumns=\count298
+)
+\tikz@expandcount=\count299
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\bleed=\skip64
+\seitenbreite=\skip65
+\seitenhoehe=\skip66
+\spinewidth=\skip67
+\totalwidth=\skip68
+\totalheight=\skip69
+
+(c:/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count300
+\calc@Bcount=\count301
+\calc@Adimen=\dimen191
+\calc@Bdimen=\dimen192
+\calc@Askip=\skip70
+\calc@Bskip=\skip71
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count302
+\calc@Cskip=\skip72
+)
+(c:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count303
+\Gm@cntv=\count304
+\c@Gm@tempcnt=\count305
+\Gm@bindingoffset=\dimen193
+\Gm@wd@mp=\dimen194
+\Gm@odd@mp=\dimen195
+\Gm@even@mp=\dimen196
+\Gm@layoutwidth=\dimen197
+\Gm@layoutheight=\dimen198
+\Gm@layouthoffset=\dimen199
+\Gm@layoutvoffset=\dimen256
+\Gm@dimlist=\toks37
+)
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks38
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip73
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks39
+\ex@=\dimen257
+))
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen258
+)
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count306
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count307
+\leftroot@=\count308
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count309
+\DOTSCASE@=\count310
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box64
+\strutbox@=\box65
+\big@size=\dimen259
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count311
+\c@MaxMatrixCols=\count312
+\dotsspace@=\muskip17
+\c@parentequation=\count313
+\dspbrk@lvl=\count314
+\tag@help=\toks40
+\row@=\count315
+\column@=\count316
+\maxfields@=\count317
+\andhelp@=\toks41
+\eqnshift@=\dimen260
+\alignsep@=\dimen261
+\tagshift@=\dimen262
+\tagwidth@=\dimen263
+\totwidth@=\dimen264
+\lineht@=\dimen265
+\@envbody=\toks42
+\multlinegap=\skip74
+\multlinetaggap=\skip75
+\mathdisplay@stack=\toks43
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+LaTeX Info: Redefining \genfrac on input line 815.
+
+(c:/texlive/2021/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+
+(c:/texlive/2021/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
+Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
+TeX
+
+(c:/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+(c:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count318
+\l__fontspec_language_int=\count319
+\l__fontspec_strnum_int=\count320
+\l__fontspec_tmp_int=\count321
+\l__fontspec_tmpa_int=\count322
+\l__fontspec_tmpb_int=\count323
+\l__fontspec_tmpc_int=\count324
+\l__fontspec_em_int=\count325
+\l__fontspec_emdef_int=\count326
+\l__fontspec_strong_int=\count327
+\l__fontspec_strongdef_int=\count328
+\l__fontspec_tmpa_dim=\dimen266
+\l__fontspec_tmpb_dim=\dimen267
+\l__fontspec_tmpc_dim=\dimen268
+
+(c:/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(c:/texlive/2021/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+(c:/texlive/2021/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\g__um_fam_int=\count329
+\g__um_fonts_used_int=\count330
+\l__um_primecount_int=\count331
+\g__um_primekern_muskip=\muskip18
+
+(c:/texlive/2021/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
+(c:/texlive/2021/texmf-dist/tex/latex/metalogo/metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+\xl@everylogo=\toks44
+\xl@@everylogo=\toks45
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+
+Package fontspec Info: DejaVuSansMono scale = 0.788112595521966.
+
+
+Package fontspec Info: DejaVuSansMono scale = 0.788112595521966.
+
+
+Package fontspec Info: DejaVuSansMono-Bold scale = 0.788112595521966.
+
+
+Package fontspec Info: DejaVuSansMono-Oblique scale = 0.788112595521966.
+
+
+Package fontspec Info: DejaVuSansMono-BoldOblique scale = 0.788112595521966.
+
+
+Package fontspec Info: Font family 'DejaVuSansMono.ttf(0)' created for font
+(fontspec)             'DejaVuSansMono.ttf' with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space,Scale=MatchLowercase,BoldFont
+(fontspec)             = DejaVuSansMono-Bold.ttf,SlantedFont =
+(fontspec)             DejaVuSansMono-Oblique.ttf,BoldSlantedFont =
+(fontspec)             DejaVuSansMono-BoldOblique.ttf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.788112595521966]"[DejaVuSansMono.ttf]/OT:script=
+latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.788112595521966]"[DejaVuSansMono-Bold.ttf]/OT:sc
+ript=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->s*[0.788112595521966]"[DejaVuSansMono-Oblique.ttf]/OT
+:script=latn;language=dflt;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->s*[0.788112595521966]"[DejaVuSansMono-BoldOblique.ttf
+]/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+
+Package fontspec Info: DejaVuSansMono scale = 0.788112595521966.
+
+
+Package fontspec Info: DejaVuSansMono scale = 0.788112595521966.
+
+
+Package fontspec Info: DejaVuSansMono-Bold scale = 0.788112595521966.
+
+
+Package fontspec Info: DejaVuSansMono-Oblique scale = 0.788112595521966.
+
+
+Package fontspec Info: DejaVuSansMono-BoldOblique scale = 0.788112595521966.
+
+
+Package fontspec Info: Font family 'DejaVuSansMono.ttf(1)' created for font
+(fontspec)             'DejaVuSansMono.ttf' with options
+(fontspec)             [Scale=MatchLowercase,BoldFont =
+(fontspec)             DejaVuSansMono-Bold.ttf,SlantedFont =
+(fontspec)             DejaVuSansMono-Oblique.ttf,BoldSlantedFont =
+(fontspec)             DejaVuSansMono-BoldOblique.ttf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.788112595521966]"[DejaVuSansMono.ttf]/OT:script=
+latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.788112595521966]"[DejaVuSansMono-Bold.ttf]/OT:sc
+ript=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->s*[0.788112595521966]"[DejaVuSansMono-Oblique.ttf]/OT
+:script=latn;language=dflt;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.: 
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->s*[0.788112595521966]"[DejaVuSansMono-BoldOblique.ttf
+]/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.: 
+
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/DejaVuSansMono.ttf(1)/m/n on input 
+line 815.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/DejaVuSansMono.ttf(1)/bx/n on input
+ line 815.
+
+Package fontspec Info: Arimo-Regular scale = 0.8157907230688886.
+
+
+Package fontspec Info: Arimo-Regular scale = 0.8157907230688886.
+
+
+Package fontspec Info: Arimo-Bold scale = 0.8157907230688886.
+
+
+Package fontspec Info: Arimo-Italic scale = 0.8157907230688886.
+
+
+Package fontspec Info: Arimo-BoldItalic scale = 0.8157907230688886.
+
+
+Package fontspec Info: Font family 'Arimo-Regular.ttf(0)' created for font
+(fontspec)             'Arimo-Regular.ttf' with options
+(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,BoldFont =
+(fontspec)             Arimo-Bold.ttf,ItalicFont =
+(fontspec)             Arimo-Italic.ttf,BoldItalicFont =
+(fontspec)             Arimo-BoldItalic.ttf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.8157907230688886]"[Arimo-Regular.ttf]/OT:script=
+latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.8157907230688886]"[Arimo-Bold.ttf]/OT:script=lat
+n;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[0.8157907230688886]"[Arimo-Italic.ttf]/OT:script=l
+atn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.8157907230688886]"[Arimo-BoldItalic.ttf]/OT:scri
+pt=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Arimo-Regular scale = 0.8157907230688886.
+
+
+Package fontspec Info: Arimo-Regular scale = 0.8157907230688886.
+
+
+Package fontspec Info: Arimo-Bold scale = 0.8157907230688886.
+
+
+Package fontspec Info: Arimo-Italic scale = 0.8157907230688886.
+
+
+Package fontspec Info: Arimo-BoldItalic scale = 0.8157907230688886.
+
+
+Package fontspec Info: Font family 'Arimo-Regular.ttf(1)' created for font
+(fontspec)             'Arimo-Regular.ttf' with options
+(fontspec)             [Scale=MatchLowercase,BoldFont =
+(fontspec)             Arimo-Bold.ttf,ItalicFont =
+(fontspec)             Arimo-Italic.ttf,BoldItalicFont =
+(fontspec)             Arimo-BoldItalic.ttf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.8157907230688886]"[Arimo-Regular.ttf]/OT:script=
+latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.8157907230688886]"[Arimo-Bold.ttf]/OT:script=lat
+n;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[0.8157907230688886]"[Arimo-Italic.ttf]/OT:script=l
+atn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.8157907230688886]"[Arimo-BoldItalic.ttf]/OT:scri
+pt=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/Arimo-Regular.ttf(1)/m/n on input l
+ine 815.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/Arimo-Regular.ttf(1)/bx/n on input
+ line 815.
+
+Package fontspec Info: Font family 'LibertinusMath-Regular.otf(0)' created for
+(fontspec)             font 'LibertinusMath-Regular.otf' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,AutoFakeBold].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[LibertinusMath-Regular.otf]/OT:script=math;language
+=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[LibertinusMath-Regular.otf]/OT:script=math;language
+=dflt;embolden=1.5;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'LibertinusMath-Regular.otf(1)' created for
+(fontspec)             font 'LibertinusMath-Regular.otf' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=9.855-},{Size=7.665-9.855,Font=LibertinusMath-Regular
+.otf,Style=MathScript},{Size=-7.665,Font=LibertinusMath-Regular.otf,Style=MathS
+criptScript}},AutoFakeBold].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.855->"[LibertinusMath-Regular.otf]/OT:script=math;lan
+guage=dflt;"<7.665-9.855>"[LibertinusMath-Regular.otf]/OT:script=math;language=
+dflt;+ssty=0;"<-7.665>"[LibertinusMath-Regular.otf]/OT:script=math;language=dfl
+t;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <9.855->"[LibertinusMath-Regular.otf]/OT:script=math;lan
+guage=dflt;embolden=1.5;"<7.665-9.855>"[LibertinusMath-Regular.otf]/OT:script=m
+ath;language=dflt;embolden=1.5;+ssty=0;"<-7.665>"[LibertinusMath-Regular.otf]/O
+T:script=math;language=dflt;embolden=1.5;+ssty=1;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 815.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/LibertinusMath-Regular.otf(1)/m/n on
+ input line 815.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 815.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/LibertinusMath-Regular.otf(1)/b/n o
+n input line 815.
+
+Package fontspec Info: LibertinusMath-Regular scale = 1.0001.
+
+
+Package fontspec Info: LibertinusMath-Regular scale = 1.0001.
+
+
+Package fontspec Info: LibertinusMath-Regular scale = 1.0001.
+
+
+Package fontspec Info: LibertinusMath-Regular scale = 1.0001.
+
+
+Package fontspec Info: LibertinusMath-Regular scale = 1.0001.
+
+
+Package fontspec Info: LibertinusMath-Regular scale = 1.0001.
+
+
+Package fontspec Info: LibertinusMath-Regular scale = 1.0001.
+
+
+Package fontspec Info: Font family 'LibertinusMath-Regular.otf(2)' created for
+(fontspec)             font 'LibertinusMath-Regular.otf' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=9.855-},{Size=7.665-9.855,Font=LibertinusMath-Regular
+.otf,Style=MathScript},{Size=-7.665,Font=LibertinusMath-Regular.otf,Style=MathS
+criptScript}},AutoFakeBold,ScaleAgain=1.0001,FontAdjustment={\fontdimen
+(fontspec)             8\font =6.351pt\relax \fontdimen 9\font =5.256pt\relax
+(fontspec)             \fontdimen 10\font =5.1465pt\relax \fontdimen 11\font
+(fontspec)             =7.665pt\relax \fontdimen 12\font =5.256pt\relax
+(fontspec)             \fontdimen 13\font =4.10625pt\relax \fontdimen 14\font
+(fontspec)             =4.10625pt\relax \fontdimen 15\font =3.3945pt\relax
+(fontspec)             \fontdimen 16\font =2.2995pt\relax \fontdimen 17\font
+(fontspec)             =2.2995pt\relax \fontdimen 18\font =2.5185pt\relax
+(fontspec)             \fontdimen 19\font =0.49275pt\relax \fontdimen 22\font
+(fontspec)             =2.847pt\relax \fontdimen 20\font =0pt\relax \fontdimen
+(fontspec)             21\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.855->s*[1.0001]"[LibertinusMath-Regular.otf]/OT:scrip
+t=math;language=dflt;"<7.665-9.855>s*[1.0001]"[LibertinusMath-Regular.otf]/OT:s
+cript=math;language=dflt;+ssty=0;"<-7.665>s*[1.0001]"[LibertinusMath-Regular.ot
+f]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =6.351pt\relax \fontdimen 9\font
+(fontspec)             =5.256pt\relax \fontdimen 10\font =5.1465pt\relax
+(fontspec)             \fontdimen 11\font =7.665pt\relax \fontdimen 12\font
+(fontspec)             =5.256pt\relax \fontdimen 13\font =4.10625pt\relax
+(fontspec)             \fontdimen 14\font =4.10625pt\relax \fontdimen 15\font
+(fontspec)             =3.3945pt\relax \fontdimen 16\font =2.2995pt\relax
+(fontspec)             \fontdimen 17\font =2.2995pt\relax \fontdimen 18\font
+(fontspec)             =2.5185pt\relax \fontdimen 19\font =0.49275pt\relax
+(fontspec)             \fontdimen 22\font =2.847pt\relax \fontdimen 20\font
+(fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <9.855->s*[1.0001]"[LibertinusMath-Regular.otf]/OT:scrip
+t=math;language=dflt;embolden=1.5;"<7.665-9.855>s*[1.0001]"[LibertinusMath-Regu
+lar.otf]/OT:script=math;language=dflt;embolden=1.5;+ssty=0;"<-7.665>s*[1.0001]"
+[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=1.5;+ssty=1;
+"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =6.351pt\relax \fontdimen 9\font
+(fontspec)             =5.256pt\relax \fontdimen 10\font =5.1465pt\relax
+(fontspec)             \fontdimen 11\font =7.665pt\relax \fontdimen 12\font
+(fontspec)             =5.256pt\relax \fontdimen 13\font =4.10625pt\relax
+(fontspec)             \fontdimen 14\font =4.10625pt\relax \fontdimen 15\font
+(fontspec)             =3.3945pt\relax \fontdimen 16\font =2.2995pt\relax
+(fontspec)             \fontdimen 17\font =2.2995pt\relax \fontdimen 18\font
+(fontspec)             =2.5185pt\relax \fontdimen 19\font =0.49275pt\relax
+(fontspec)             \fontdimen 22\font =2.847pt\relax \fontdimen 20\font
+(fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 815.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> TU/LibertinusMath-Regular.otf(2)/m/n o
+n input line 815.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 815.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> TU/LibertinusMath-Regular.otf(2)/b/n o
+n input line 815.
+
+Package fontspec Info: LibertinusMath-Regular scale = 0.9999.
+
+
+Package fontspec Info: LibertinusMath-Regular scale = 0.9999.
+
+
+Package fontspec Info: LibertinusMath-Regular scale = 0.9999.
+
+
+Package fontspec Info: LibertinusMath-Regular scale = 0.9999.
+
+
+Package fontspec Info: LibertinusMath-Regular scale = 0.9999.
+
+
+Package fontspec Info: LibertinusMath-Regular scale = 0.9999.
+
+
+Package fontspec Info: LibertinusMath-Regular scale = 0.9999.
+
+
+Package fontspec Info: Font family 'LibertinusMath-Regular.otf(3)' created for
+(fontspec)             font 'LibertinusMath-Regular.otf' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=9.855-},{Size=7.665-9.855,Font=LibertinusMath-Regular
+.otf,Style=MathScript},{Size=-7.665,Font=LibertinusMath-Regular.otf,Style=MathS
+criptScript}},AutoFakeBold,ScaleAgain=0.9999,FontAdjustment={\fontdimen
+(fontspec)             8\font =0.71175pt\relax \fontdimen 9\font
+(fontspec)             =1.6425pt\relax \fontdimen 10\font =1.6425pt\relax
+(fontspec)             \fontdimen 11\font =2.7375pt\relax \fontdimen 12\font
+(fontspec)             =6.789pt\relax \fontdimen 13\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.855->s*[0.9999]"[LibertinusMath-Regular.otf]/OT:scrip
+t=math;language=dflt;"<7.665-9.855>s*[0.9999]"[LibertinusMath-Regular.otf]/OT:s
+cript=math;language=dflt;+ssty=0;"<-7.665>s*[0.9999]"[LibertinusMath-Regular.ot
+f]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.71175pt\relax \fontdimen 9\font
+(fontspec)             =1.6425pt\relax \fontdimen 10\font =1.6425pt\relax
+(fontspec)             \fontdimen 11\font =2.7375pt\relax \fontdimen 12\font
+(fontspec)             =6.789pt\relax \fontdimen 13\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <9.855->s*[0.9999]"[LibertinusMath-Regular.otf]/OT:scrip
+t=math;language=dflt;embolden=1.5;"<7.665-9.855>s*[0.9999]"[LibertinusMath-Regu
+lar.otf]/OT:script=math;language=dflt;embolden=1.5;+ssty=0;"<-7.665>s*[0.9999]"
+[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;embolden=1.5;+ssty=1;
+"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.71175pt\relax \fontdimen 9\font
+(fontspec)             =1.6425pt\relax \fontdimen 10\font =1.6425pt\relax
+(fontspec)             \fontdimen 11\font =2.7375pt\relax \fontdimen 12\font
+(fontspec)             =6.789pt\relax \fontdimen 13\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 8
+15.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> TU/LibertinusMath-Regular.otf(3)/m/n o
+n input line 815.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 815
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> TU/LibertinusMath-Regular.otf(3)/b/n o
+n input line 815.
+
+Package fontspec Info: Font family 'XITSMath-Regular.otf(0)' created for font
+(fontspec)             'XITSMath-Regular.otf' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=9.855-},{Size=7.665-9.855,Font=XITSMath-Regular.otf,S
+tyle=MathScript},{Size=-7.665,Font=XITSMath-Regular.otf,Style=MathScriptScript}
+},StylisticSet={1}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.855->"[XITSMath-Regular.otf]/OT:script=math;language=
+dflt;+ss01;"<7.665-9.855>"[XITSMath-Regular.otf]/OT:script=math;language=dflt;+
+ss01;+ssty=0;"<-7.665>"[XITSMath-Regular.otf]/OT:script=math;language=dflt;+ss0
+1;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+\sym__um_fam1=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `__um_fam1' in version `normal'
+(Font)                  TU/XITSMath-Regular.otf(0)/m/n --> TU/XITSMath-Regular.
+otf(0)/m/n on input line 815.
+LaTeX Font Info:    Overwriting symbol font `__um_fam1' in version `bold'
+(Font)                  TU/XITSMath-Regular.otf(0)/m/n --> TU/XITSMath-Regular.
+otf(0)/b/n on input line 815.
+
+Package fontspec Info: Font family 'XITSMath-Bold.otf(0)' created for font
+(fontspec)             'XITSMath-Bold.otf' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=9.855-},{Size=7.665-9.855,Font=XITSMath-Bold.otf,Styl
+e=MathScript},{Size=-7.665,Font=XITSMath-Bold.otf,Style=MathScriptScript}},Styl
+isticSet={1}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.855->"[XITSMath-Bold.otf]/OT:script=math;language=dfl
+t;+ss01;"<7.665-9.855>"[XITSMath-Bold.otf]/OT:script=math;language=dflt;+ss01;+
+ssty=0;"<-7.665>"[XITSMath-Bold.otf]/OT:script=math;language=dflt;+ss01;+ssty=1
+;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+\sym__um_fam2=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `__um_fam2' in version `normal'
+(Font)                  TU/XITSMath-Bold.otf(0)/m/n --> TU/XITSMath-Bold.otf(0)
+/m/n on input line 815.
+LaTeX Font Info:    Overwriting symbol font `__um_fam2' in version `bold'
+(Font)                  TU/XITSMath-Bold.otf(0)/m/n --> TU/XITSMath-Bold.otf(0)
+/b/n on input line 815.
+
+Package fontspec Info: Font family 'LibertinusSerif-Regular.otf(0)' created
+(fontspec)             for font 'LibertinusSerif-Regular.otf' with options
+(fontspec)             [Ligatures=TeX,Ligatures={TeX,Common},PunctuationSpace=0
+,Numbers={Proportional},BoldFont
+(fontspec)             = LibertinusSerif-Semibold.otf,ItalicFont =
+(fontspec)             LibertinusSerif-Italic.otf,BoldItalicFont =
+(fontspec)             LibertinusSerif-SemiboldItalic.otf,BoldSlantedFont =
+(fontspec)             LibertinusSerif-Semibold.otf,SlantedFont =
+(fontspec)             LibertinusSerif-Regular.otf,SlantedFeatures =
+(fontspec)             {FakeSlant=0.25},BoldSlantedFeatures =
+(fontspec)             {FakeSlant=0.25},SmallCapsFeatures = {FakeSlant=0}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;+liga;+pnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;slant=0;+liga;+pnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;+liga;+pnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;slant=0;+liga;+pnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Italic.otf]/OT:script=latn;language
+=dflt;+liga;+pnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Italic.otf]/OT:script=latn;language
+=dflt;slant=0;+liga;+pnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;slant=0.25;+liga;+pnum;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;slant=0.25;slant=0;+liga;+pnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-SemiboldItalic.otf]/OT:script=latn;
+language=dflt;+liga;+pnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-SemiboldItalic.otf]/OT:script=latn;
+language=dflt;slant=0;+liga;+pnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;slant=0.25;+liga;+pnum;mapping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;slant=0.25;slant=0;+liga;+pnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+
+
+Package fontspec Info: Font family 'LibertinusSerif-Regular.otf(1)' created
+(fontspec)             for font 'LibertinusSerif-Regular.otf' with options
+(fontspec)             [Ligatures={TeX,Common},PunctuationSpace=0,Numbers={Prop
+ortional},BoldFont
+(fontspec)             = LibertinusSerif-Semibold.otf,ItalicFont =
+(fontspec)             LibertinusSerif-Italic.otf,BoldItalicFont =
+(fontspec)             LibertinusSerif-SemiboldItalic.otf,BoldSlantedFont =
+(fontspec)             LibertinusSerif-Semibold.otf,SlantedFont =
+(fontspec)             LibertinusSerif-Regular.otf,SlantedFeatures =
+(fontspec)             {FakeSlant=0.25},BoldSlantedFeatures =
+(fontspec)             {FakeSlant=0.25},SmallCapsFeatures = {FakeSlant=0}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;+liga;+pnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;slant=0;+liga;+pnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;+liga;+pnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;slant=0;+liga;+pnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Italic.otf]/OT:script=latn;language
+=dflt;+liga;+pnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Italic.otf]/OT:script=latn;language
+=dflt;slant=0;+liga;+pnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;slant=0.25;+liga;+pnum;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;slant=0.25;slant=0;+liga;+pnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-SemiboldItalic.otf]/OT:script=latn;
+language=dflt;+liga;+pnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-SemiboldItalic.otf]/OT:script=latn;
+language=dflt;slant=0;+liga;+pnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;slant=0.25;+liga;+pnum;mapping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;slant=0.25;slant=0;+liga;+pnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  TU/LibertinusMath-Regular.otf(1)/m/n --> TU/LibertinusS
+erif-Regular.otf(1)/m/n on input line 815.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/LibertinusSerif-Regular.otf(1)/m/it
+ on input line 815.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/LibertinusSerif-Regular.otf(1)/b/n 
+on input line 815.
+
+(c:/texlive/2021/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
+\MT@toks=\toks46
+\MT@count=\count332
+\MT@tempbox=\box66
+LaTeX Info: Redefining \leftprotrusion on input line 1010.
+LaTeX Info: Redefining \rightprotrusion on input line 1018.
+LaTeX Info: Redefining \textls on input line 1173.
+\MT@outer@kern=\dimen269
+LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
+\MT@listname@count=\count333
+
+(c:/texlive/2021/texmf-dist/tex/latex/microtype/microtype-xetex.def
+File: microtype-xetex.def 2021/12/10 v3.0b Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 234.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(c:/texlive/2021/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
+))
+Package scrkbase Info: You've told me to redefine the font selection of the
+(scrkbase)             element `sectioning' that is an alias of element
+(scrkbase)             `disposition' on input line 817.
+
+(./langsci-series.def)
+(c:/texlive/2021/texmf-dist/tex/latex/pst-barcode/pst-barcode.sty
+(c:/texlive/2021/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2021/08/23 v0.71 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(c:/texlive/2021/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+(c:/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(c:/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks47
+\XKV@tempa@toks=\toks48
+)
+\XKV@depth=\count334
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(c:/texlive/2021/texmf-dist/tex/generic/pstricks/pstricks.tex
+(c:/texlive/2021/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.06, 2020/11/20 (hv)
+\pstFP@xs=\count335
+\pstFP@xia=\count336
+\pstFP@xib=\count337
+\pstFP@xfa=\count338
+\pstFP@xfb=\count339
+\pstFP@rega=\count340
+\pstFP@regb=\count341
+\pstFP@regs=\count342
+\pstFP@times=\count343
+)
+\psLoopIndex=\count344
+
+`PSTricks' v3.13  <2022/01/09> (tvz,hv)
+\pst@dima=\dimen270
+\pst@dimb=\dimen271
+\pst@dimc=\dimen272
+\pst@dimd=\dimen273
+\pst@dimg=\dimen274
+\pst@dimh=\dimen275
+\pst@dimm=\dimen276
+\pst@dimn=\dimen277
+\pst@dimo=\dimen278
+\pst@dimp=\dimen279
+\pst@hbox=\box67
+\pst@ibox=\box68
+\pst@boxg=\box69
+\pst@cnta=\count345
+\pst@cntb=\count346
+\pst@cntc=\count347
+\pst@cntd=\count348
+\pst@cntg=\count349
+\pst@cnth=\count350
+\pst@cntm=\count351
+\pst@cntn=\count352
+\pst@cnto=\count353
+\pst@cntp=\count354
+\@zero=\count355
+\pst@toks=\toks49
+--- We are running latex or xelatex ---
+(c:/texlive/2021/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
+(c:/texlive/2021/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg))
+(c:/texlive/2021/texmf-dist/tex/generic/pstricks/pstricks-color.tex)
+\psunit=\dimen280
+\psxunit=\dimen281
+\psyunit=\dimen282
+\pst@C@@rType=\count356
+\pslinewidth=\dimen283
+\psk@startLW=\dimen284
+\psk@endLW=\dimen285
+
+(c:/texlive/2021/texmf-dist/tex/generic/pstricks/pstricks-arrows.tex
+\pshooklength=\dimen286
+\pshookwidth=\dimen287
+)
+\pst@customdefs=\toks50
+
+(c:/texlive/2021/texmf-dist/tex/generic/pstricks/pstricks-dots.tex)
+\pslinearc=\dimen288
+\pst@symbolStep=\dimen289
+\pst@symbolWidth=\dimen290
+\pst@symbolLinewidth=\dimen291
+\everypsbox=\toks51
+\psframesep=\dimen292
+\pslabelsep=\dimen293
+\sh@wgridXunit=\dimen294
+\sh@wgridYunit=\dimen295
+\pst@shift=\dimen296
+\ps@imagectr=\count357
+
+(c:/texlive/2021/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
+(c:/texlive/2021/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg
+Using PSTricks configuration for LaTeX+dvipdfmx
+)))
+File: pstricks.tex 2022/01/09 v3.13 `PSTricks' (tvz,hv)
+ (c:/texlive/2021/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.06, 2020/11/20 (hv))
+File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
+
+>>> Loading XeTeX special macros
+(c:/texlive/2021/texmf-dist/tex/generic/pstricks/pstricks-xetex.def))
+Package: pst-barcode 2016/04/22 package wrapper for pst-barcode.tex (hv)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pst-barcode/pst-barcode.tex
+`PST-barcode' v0.18, 2017/08/22 (tb,hv)
+(c:/texlive/2021/texmf-dist/tex/latex/marginnote/marginnote.sty
+Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
+\c@mn@abspage=\count358
+)
+\QR@box=\box70
+)
+File: pst-barcode.tex 2017/08/22 v0.18 `PST-barcode' (hv)
+)
+\pgf@layerbox@lspcls_bg=\box71
+\pgf@layerboxsaved@lspcls_bg=\box72
+\langsci_wheel_loop_count_int=\count359
+\langsci_wheel_output_difference_int=\count360
+
+(c:/texlive/2021/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(c:/texlive/2021/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
+Package: fmtcount 2020/01/30 v3.07
+
+(c:/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
+Package: fcprefix 2012/09/28
+
+(c:/texlive/2021/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count361
+))
+\c@padzeroesN=\count362
+\fc@tmpcatcode=\count363
+\@DT@modctr=\count364
+\@ordinalctr=\count365
+\@orgargctr=\count366
+\@strctr=\count367
+\@tmpstrctr=\count368
+\@DT@loopN=\count369
+\@DT@X=\count370
+)
+(c:/texlive/2021/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count371
+\@month=\count372
+\@year=\count373
+\c@HOUR=\count374
+\c@HOURXII=\count375
+\c@MINUTE=\count376
+\c@TOHOUR=\count377
+\c@TOMINUTE=\count378
+\c@SECOND=\count379
+\currenthour=\count380
+\currentminute=\count381
+\currentsecond=\count382
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count383
+\dayofyear=\count384
+\dayofweek=\count385
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks52
+\dt@b=\toks53
+)
+(c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+Package: scrlayer-scrpage 2021/11/13 v3.35 KOMA-Script package (end user interf
+ace for scrlayer)
+
+(c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrlayer.sty
+Package: scrlayer 2021/11/13 v3.35 KOMA-Script package (defining layers and pag
+e styles)
+Package scrlayer Info: Using already defined \footheight
+(scrlayer)             hoping, that this is a length and
+(scrlayer)             not only a macro on input line 136.
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 216
+2.
+)
+Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
+(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1085.
+Package scrlayer-scrpage Info: deactivating warning for font element
+(scrlayer-scrpage)             `pagefoot' on input line 1109.
+)
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
+
+(c:/texlive/2021/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+
+(c:/texlive/2021/texmf-dist/tex/latex/nextpage/nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip76
+\afterepigraphskip=\skip77
+\epigraphwidth=\skip78
+\epigraphrule=\skip79
+)
+\normalparindent=\skip80
+
+(c:/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/01/26 3.70 The Babel package
+\babel@savecnt=\count386
+\U@D=\dimen297
+\l@unhyphenated=\language88
+
+(c:/texlive/2021/texmf-dist/tex/generic/babel/xebabel.def
+(c:/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@readstream=\read3
+\bbl@dirlevel=\count387
+
+(c:/texlive/2021/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 108.
+))
+(c:/texlive/2021/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(c:/texlive/2021/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count388
+
+(c:/texlive/2021/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count389
+\c@listtotal=\count390
+\c@listcount=\count391
+\c@liststart=\count392
+\c@liststop=\count393
+\c@citecount=\count394
+\c@citetotal=\count395
+\c@multicitecount=\count396
+\c@multicitetotal=\count397
+\c@instcount=\count398
+\c@maxnames=\count399
+\c@minnames=\count400
+\c@maxitems=\count401
+\c@minitems=\count402
+\c@citecounter=\count403
+\c@maxcitecounter=\count404
+\c@savedcitecounter=\count405
+\c@uniquelist=\count406
+\c@uniquename=\count407
+\c@refsection=\count408
+\c@refsegment=\count409
+\c@maxextratitle=\count410
+\c@maxextratitleyear=\count411
+\c@maxextraname=\count412
+\c@maxextradate=\count413
+\c@maxextraalpha=\count414
+\c@abbrvpenalty=\count415
+\c@highnamepenalty=\count416
+\c@lownamepenalty=\count417
+\c@maxparens=\count418
+\c@parenlevel=\count419
+\blx@tempcnta=\count420
+\blx@tempcntb=\count421
+\blx@tempcntc=\count422
+\blx@maxsection=\count423
+\blx@maxsegment@0=\count424
+\blx@notetype=\count425
+\blx@parenlevel@text=\count426
+\blx@parenlevel@foot=\count427
+\blx@sectionciteorder@0=\count428
+\blx@entrysetcounter=\count429
+\blx@biblioinstance=\count430
+\labelnumberwidth=\skip81
+\labelalphawidth=\skip82
+\biblabelsep=\skip83
+\bibitemsep=\skip84
+\bibnamesep=\skip85
+\bibinitsep=\skip86
+\bibparsep=\skip87
+\bibhang=\skip88
+\blx@bcfin=\read4
+\blx@bcfout=\write4
+\blx@langwohyphens=\language89
+\c@mincomprange=\count431
+\c@maxcomprange=\count432
+\c@mincompwidth=\count433
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(c:/texlive/2021/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'langsci-unified.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count434
+\c@savedafterword=\count435
+\c@annotator=\count436
+\c@savedannotator=\count437
+\c@author=\count438
+\c@savedauthor=\count439
+\c@bookauthor=\count440
+\c@savedbookauthor=\count441
+\c@commentator=\count442
+\c@savedcommentator=\count443
+\c@editor=\count444
+\c@savededitor=\count445
+\c@editora=\count446
+\c@savededitora=\count447
+\c@editorb=\count448
+\c@savededitorb=\count449
+\c@editorc=\count450
+\c@savededitorc=\count451
+\c@foreword=\count452
+\c@savedforeword=\count453
+\c@holder=\count454
+\c@savedholder=\count455
+\c@introduction=\count456
+\c@savedintroduction=\count457
+\c@namea=\count458
+\c@savednamea=\count459
+\c@nameb=\count460
+\c@savednameb=\count461
+\c@namec=\count462
+\c@savednamec=\count463
+\c@translator=\count464
+\c@savedtranslator=\count465
+\c@shortauthor=\count466
+\c@savedshortauthor=\count467
+\c@shorteditor=\count468
+\c@savedshorteditor=\count469
+\c@labelname=\count470
+\c@savedlabelname=\count471
+\c@institution=\count472
+\c@savedinstitution=\count473
+\c@lista=\count474
+\c@savedlista=\count475
+\c@listb=\count476
+\c@savedlistb=\count477
+\c@listc=\count478
+\c@savedlistc=\count479
+\c@listd=\count480
+\c@savedlistd=\count481
+\c@liste=\count482
+\c@savedliste=\count483
+\c@listf=\count484
+\c@savedlistf=\count485
+\c@location=\count486
+\c@savedlocation=\count487
+\c@organization=\count488
+\c@savedorganization=\count489
+\c@origlocation=\count490
+\c@savedoriglocation=\count491
+\c@origpublisher=\count492
+\c@savedorigpublisher=\count493
+\c@publisher=\count494
+\c@savedpublisher=\count495
+\c@language=\count496
+\c@savedlanguage=\count497
+\c@origlanguage=\count498
+\c@savedoriglanguage=\count499
+\c@pageref=\count500
+\c@savedpageref=\count501
+\shorthandwidth=\skip89
+\shortjournalwidth=\skip90
+\shortserieswidth=\skip91
+\shorttitlewidth=\skip92
+\shortauthorwidth=\skip93
+\shorteditorwidth=\skip94
+\locallabelnumberwidth=\skip95
+\locallabelalphawidth=\skip96
+\localshorthandwidth=\skip97
+\localshortjournalwidth=\skip98
+\localshortserieswidth=\skip99
+\localshorttitlewidth=\skip100
+\localshortauthorwidth=\skip101
+\localshorteditorwidth=\skip102
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(c:/texlive/2021/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(c:/texlive/2021/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(c:/texlive/2021/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count502
+\c@textcitetotal=\count503
+\c@textcitemaxnames=\count504
+\c@biburlbigbreakpenalty=\count505
+\c@biburlbreakpenalty=\count506
+\c@biburlnumpenalty=\count507
+\c@biburlucpenalty=\count508
+\c@biburllcpenalty=\count509
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count510
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+(c:/texlive/2021/texmf-dist/tex/latex/biblatex/blx-natbib.def
+File: blx-natbib.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'langsci-unified'...
+Package biblatex Info: ... file 'langsci-unified.bbx' found.
+
+(c:/texlive/2021/texmf-dist/tex/xelatex/langsci/langsci-unified.bbx
+File: langsci-unified.bbx 
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(c:/texlive/2021/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(c:/texlive/2021/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count511
+\c@bbx:relatedtotal=\count512
+))
+
+Package biblatex Warning: Macro 'date+extradate' already defined.
+(biblatex)                Using \renewbibmacro.
+
+)
+Package biblatex Info: Trying to load citation style 'langsci-unified'...
+Package biblatex Info: ... file 'langsci-unified.cbx' found.
+ (c:/texlive/2021/texmf-dist/tex/xelatex/langsci/langsci-unified.cbx
+File: langsci-unified.cbx 
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citeyear'.
+Package biblatex Info: Redefining '\citeyearpar'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(c:/texlive/2021/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+
+! Package xkeyval Error: `toc' undefined in families `blx@opt@pre'.
+
+See the xkeyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15577 \blx@processoptions
+                           
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (c:/texlive/2021/texmf-dist/tex/latex/floatrow/floatrow.sty
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+
+(c:/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen298
+\captionmargin@=\dimen299
+\captionwidth=\dimen300
+\caption@tempdima=\dimen301
+\caption@indent=\dimen302
+\caption@parindent=\dimen303
+\caption@hangindent=\dimen304
+Package caption Info: KOMA-Script document class detected.
+
+(c:/texlive/2021/texmf-dist/tex/latex/caption/caption-koma.sto
+File: caption-koma.sto 2020/09/21 v2.0b Adaption of the caption package to the 
+KOMA-Script document classes (AR)
+))
+\c@float@type=\count513
+\float@exts=\toks54
+\float@box=\box73
+\@floatcapt=\box74
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks55
+\flrow@foot=\insert252
+\FB@wd=\dimen305
+\FBo@wd=\dimen306
+\FBc@wd=\dimen307
+\FBo@ht=\skip103
+\FBc@ht=\skip104
+\FBf@ht=\skip105
+\FBo@max=\skip106
+\FBc@max=\skip107
+\FBf@max=\skip108
+\c@FBl@b=\count514
+\floatbox@depth=\count515
+\c@FRobj=\count516
+\c@FRsobj=\count517
+\Xhsize=\skip109
+\sXhsize=\skip110
+\Zhsize=\skip111
+\sZhsize=\skip112
+\flrow@rowbox=\box75
+\FR@Zunitlength=\dimen308
+\c@FBcnt=\count518
+\FPOScnt=\count519
+\LTleft=\skip113
+\LTright=\skip114
+\LTleft=\skip115
+\LTright=\skip116
+\flrow@types=\toks56
+)
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count520
+\rotFPtop=\skip117
+\rotFPbot=\skip118
+\rot@float@box=\box76
+\rot@mess@toks=\toks57
+)
+(c:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen309
+\lightrulewidth=\dimen310
+\cmidrulewidth=\dimen311
+\belowrulesep=\dimen312
+\belowbottomsep=\dimen313
+\aboverulesep=\dimen314
+\abovetopsep=\dimen315
+\cmidrulesep=\dimen316
+\cmidrulekern=\dimen317
+\defaultaddspace=\dimen318
+\@cmidla=\count521
+\@cmidlb=\count522
+\@aboverulesep=\dimen319
+\@belowrulesep=\dimen320
+\@thisruleclass=\count523
+\@lastruleclass=\count524
+\@thisrulewidth=\dimen321
+)
+(c:/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(c:/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+\c@caption@flags=\count525
+\c@continuedfloat=\count526
+Package caption Info: float package is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: rotating package is loaded.
+)
+(c:/texlive/2021/texmf-dist/tex/latex/index/index.sty
+Package: index 2004/01/20 v4.2beta Improved index support (dmj)
+\@indexbox=\insert251
+\indexproofstyle=\toks58
+
+
+LaTeX Warning: Command \markboth  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \markright  has changed.
+               Check if current package is valid.
+
+)
+\idxtitle@default=\toks59
+\tf@default=\write5
+\openout5 = `main.idx'.
+
+Package index Info: Writing index file main.idx on input line 1613.
+\idxtitle@lan=\toks60
+\tf@lan=\write6
+\openout6 = `main.ldx'.
+
+Package index Info: Writing index file main.ldx on input line 1614.
+\idxtitle@sbj=\toks61
+\tf@sbj=\write7
+\openout7 = `main.sdx'.
+
+Package index Info: Writing index file main.sdx on input line 1615.
+\openout5 = `main.adx'.
+
+Package index Info: Writing index file main.adx on input line 1616.
+ (c:/texlive/2021/texmf-dist/tex/latex/authorindex/authorindex.sty
+Package: authorindex 2005/03/22 make index of authors cited in a work
+)
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(c:/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen322
+\Hy@linkcounter=\count527
+\Hy@pagecounter=\count528
+
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(c:/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count529
+
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4073.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4073.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4073.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4073
+.
+Package hyperref Info: Option `hyperindex' set `true' on input line 4073.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4073.
+Package hyperref Info: Option `draft' set `false' on input line 4073.
+Package hyperref Info: Option `plainpages' set `false' on input line 4073.
+Package hyperref Info: Option `pdfusetitle' set `true' on input line 4073.
+Package hyperref Info: Option `hyperfootnotes' set `false' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count530
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen323
+
+(c:/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count531
+\Field@Width=\dimen324
+\Fld@charsize=\dimen325
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring ON on input line 6094.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(c:/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count532
+\c@Item=\count533
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2021-06-07 v7.00m Hyperref driver for XeTeX
+
+(c:/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box77
+\c@Hy@AnnotLevel=\count534
+\HyField@AnnotCount=\count535
+\Fld@listcount=\count536
+\c@bookmark@seq@number=\count537
+
+(c:/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(c:/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip119
+)
+Package hyperref Info: Option `unicode' set `true' on input line 1732.
+\LSPTmp=\skip120
+\lsSaveValueTopSkip=\skip121
+)
+(./localmetadata.tex) (./localpackages.tex (./langsci-branding.sty)
+(c:/texlive/2021/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count538
+\lst@gtempboxa=\box78
+\lst@token=\toks62
+\lst@length=\count539
+\lst@currlwidth=\dimen326
+\lst@column=\count540
+\lst@pos=\count541
+\lst@lostspace=\dimen327
+\lst@width=\dimen328
+\lst@newlines=\count542
+\lst@lineno=\count543
+\lst@maxwidth=\dimen329
+
+(c:/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count544
+\lst@skipnumbers=\count545
+\lst@framebox=\box79
+)
+(c:/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+)
+(./localhyphenation.tex)
+\@quotelevel=\count546
+\@quotereset=\count547
+ (./main.aux (./chapters/01.aux)
+
+LaTeX Warning: Label `ex:1:descartes' multiply defined.
+
+
+LaTeX Warning: Label `tab:1:frequencies' multiply defined.
+
+(./chapters/02.aux) (./chapters/03.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+Package scrbase Info: activating english \contentsname on input line 25.
+Package scrbase Info: activating english \listfigurename on input line 25.
+Package scrbase Info: activating english \listtablename on input line 25.
+\metadatafile=\write8
+\openout8 = `langscitmp.bib'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(58.32814pt, 355.65945pt, 69.70924pt)
+* v-part:(T,H,B)=(77.96053pt, 522.96085pt, 81.94476pt)
+* \paperwidth=483.69684pt
+* \paperheight=682.86613pt
+* \textwidth=355.65945pt
+* \textheight=522.96085pt
+* \oddsidemargin=-13.94185pt
+* \evensidemargin=-2.56075pt
+* \topmargin=-31.70947pt
+* \headheight=17.0pt
+* \headsep=20.40001pt
+* \topskip=11.0pt plus 6.875pt minus 10.44997pt
+* \footskip=47.6pt
+* \marginparwidth=50.0pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \microtypecontext on input line 25.
+Package microtype Info: Applying patch `item' on input line 25.
+Package microtype Info: Applying patch `toc' on input line 25.
+Package microtype Info: Applying patch `eqnum' on input line 25.
+Package microtype Info: Applying patch `footnote' on input line 25.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LibertinusSerif-Regular.otf' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(c:/texlive/2021/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2022-01-21 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(c:/texlive/2021/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout4 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' not found.
+
+No file main.bbl.
+Package biblatex Info: Reference section=0 on input line 25.
+Package biblatex Info: Reference segment=0 on input line 25.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring ON on input line 25.
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(c:/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count548
+)
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
+
+(./main.out) (./main.out)
+\@outlinefile=\write9
+\openout9 = `main.out'.
+
+Class scrbook Info: loading recommended package `bookmark'.
+(scrbook)           Using `bookmark' together with `hyperref' is recommended,
+(scrbook)           because of handling of possible bookmark level gaps.
+(scrbook)           You can avoid loading `bookmark' with KOMA-Script option
+(scrbook)           `bookmarkpackage=false' before \begin{document} and
+(scrbook)           you can avoid this message adding:
+(scrbook)             \usepackage{bookmark}
+(scrbook)           before \begin{document} on input line 25.
+
+(c:/texlive/2021/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(c:/texlive/2021/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
+File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
+\BKM@id=\count549
+))
+\c@lstlisting=\count550
+LaTeX Font Info:    Font shape `TU/Arimo-Regular.ttf(0)/m/n' will be
+(Font)              scaled to size 8.93295pt on input line 27.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Arimo-Regular.ttf' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Package fontspec Info: Arimo-Regular scale = 0.812005781597008.
+
+
+Package fontspec Info: Arimo-Regular scale = 0.9564080491781695.
+
+
+Package fontspec Info: Arimo-Regular scale = 0.812005781597008.
+
+
+Package fontspec Info: Arimo-Regular scale = 0.9564080491781695.
+
+
+Package fontspec Info: Arimo-Bold scale = 0.812005781597008.
+
+
+Package fontspec Info: Arimo-Bold scale = 0.9564080491781695.
+
+
+Package fontspec Info: Arimo-Italic scale = 0.812005781597008.
+
+
+Package fontspec Info: Arimo-Italic scale = 0.9564080491781695.
+
+
+Package fontspec Info: Arimo-BoldItalic scale = 0.812005781597008.
+
+
+Package fontspec Info: Arimo-BoldItalic scale = 0.9564080491781695.
+
+
+Package fontspec Info: Font family 'Arimo-Regular.ttf(2)' created for font
+(fontspec)             'Arimo-Regular.ttf' with options
+(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,BoldFont =
+(fontspec)             Arimo-Bold.ttf,ItalicFont =
+(fontspec)             Arimo-Italic.ttf,BoldItalicFont =
+(fontspec)             Arimo-BoldItalic.ttf,Scale=MatchUppercase].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.9564080491781695]"[Arimo-Regular.ttf]/OT:script=
+latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9564080491781695]"[Arimo-Bold.ttf]/OT:script=lat
+n;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[0.9564080491781695]"[Arimo-Italic.ttf]/OT:script=l
+atn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.9564080491781695]"[Arimo-BoldItalic.ttf]/OT:scri
+pt=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/Arimo-Regular.ttf(2)/m/n' will be
+(Font)              scaled to size 10.47263pt on input line 27.
+LaTeX Font Info:    Font shape `TU/Arimo-Regular.ttf(2)/m/n' will be
+(Font)              scaled to size 49.7331pt on input line 27.
+File: langsci_logo_nocolor.pdf Graphic file (type pdf)
+<use langsci_logo_nocolor.pdf>
+LaTeX Font Info:    Font shape `TU/Arimo-Regular.ttf(0)/m/n' will be
+(Font)              scaled to size 13.86853pt on input line 27.
+
+(c:/texlive/2021/texmf-dist/tex/generic/stringenc/se-ascii-print.def
+File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
+
+) [1
+
+
+
+]
+LaTeX Font Info:    Font shape `TU/Arimo-Regular.ttf(0)/m/n' will be
+(Font)              scaled to size 8.15796pt on input line 27.
+
+[2
+
+]
+
+Package fontspec Info: Arimo-Regular scale = 0.812005781597008.
+
+
+Package fontspec Info: Arimo-Regular scale = 0.9564080491781695.
+
+File: langsci_logo_nocolor.pdf Graphic file (type pdf)
+<use langsci_logo_nocolor.pdf>
+ [3
+
+]
+
+LaTeX Warning: Citation 'langsci-current-book' on page 4 undefined on input lin
+e 27.
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LibertinusMath-Regular.otf' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
+(Font)              scaled to size 10.95116pt on input line 27.
+LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
+(Font)              scaled to size 8.76093pt on input line 27.
+LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
+(Font)              scaled to size 6.5707pt on input line 27.
+LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
+(Font)              scaled to size 10.94882pt on input line 27.
+LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
+(Font)              scaled to size 8.75905pt on input line 27.
+LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
+(Font)              scaled to size 6.5693pt on input line 27.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
+
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(c:/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
+
+
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(c:/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `XITSMath-Regular.otf' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `XITSMath-Bold.otf' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+LaTeX Warning: Citation 'langsci-current-book' on page 4 undefined on input lin
+e 27.
+
+File: ccby.pdf Graphic file (type pdf)
+<use ccby.pdf>
+
+Package fontspec Info: Font family 'LibertinusSerif-Regular.otf(2)' created
+(fontspec)             for font 'LibertinusSerif-Regular.otf' with options
+(fontspec)             [Ligatures=TeX,Ligatures={TeX,Common},PunctuationSpace=0
+,Numbers={Proportional},BoldFont
+(fontspec)             = LibertinusSerif-Semibold.otf,ItalicFont =
+(fontspec)             LibertinusSerif-Italic.otf,BoldItalicFont =
+(fontspec)             LibertinusSerif-SemiboldItalic.otf,BoldSlantedFont =
+(fontspec)             LibertinusSerif-Semibold.otf,SlantedFont =
+(fontspec)             LibertinusSerif-Regular.otf,SlantedFeatures =
+(fontspec)             {FakeSlant=0.25},BoldSlantedFeatures =
+(fontspec)             {FakeSlant=0.25},SmallCapsFeatures =
+(fontspec)             {FakeSlant=0},Numbers={Monospaced,Lining}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;slant=0;+liga;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;slant=0;+liga;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Italic.otf]/OT:script=latn;language
+=dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Italic.otf]/OT:script=latn;language
+=dflt;slant=0;+liga;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;slant=0.25;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;slant=0.25;slant=0;+liga;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-SemiboldItalic.otf]/OT:script=latn;
+language=dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-SemiboldItalic.otf]/OT:script=latn;
+language=dflt;slant=0;+liga;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;slant=0.25;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;slant=0.25;slant=0;+liga;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+
+File: storagelogo.pdf Graphic file (type pdf)
+<use storagelogo.pdf>
+[4]
+Package tocbasic Info: character protrusion at toc deactivated on input line 30
+.
+ (./main.toc)
+\tf@toc=\write10
+\openout10 = `main.toc'.
+
+ [1
+
+
+
+
+]
+\openout2 = `chapters/01.aux'.
+
+ (./chapters/01.tex [2
+
+
+
+]
+chapter without number
+
+Class scrbook Warning: \float@addtolists detected!
+(scrbook)              Implementation of \float@addtolist became
+(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrbook)              has been replaced by several more flexible
+(scrbook)              features of package `tocbasic`.
+(scrbook)              Since Version 3.12 support for deprecated
+(scrbook)              \float@addtolist interface has been
+(scrbook)              restricted to only some of the KOMA-Script
+(scrbook)              features and been removed from others.
+(scrbook)              Loading of package `scrhack' may help to
+(scrbook)              avoid this warning, if you are using a
+(scrbook)              a package that still implements the
+(scrbook)              deprecated \float@addtolist interface.
+
+
+LaTeX Warning: Citation 'Comrie1981' on page 3 undefined on input line 5.
+
+! Undefined control sequence.
+\is #1->\if@noftnote 
+                     \index [sbj]{#1}\else \edef \tempnumber {\thefootnote }...
+l.5 ...eful introduction to typology \is{typology}
+                                                  . \is = index of subjects
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\is #1->\if@noftnote 
+                     \index [sbj]{#1}\else \edef \tempnumber {\thefootnote }...
+l.5 ...troduction to typology \is{typology}. \is =
+                                                   index of subjects
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\il #1->\if@noftnote 
+                     \index [lan]{#1}\else \edef \tempnumber {\thefootnote }...
+l.6 ...ing itself to \ili{Indo-European languages}
+                                                  . \il = index of languages
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra \else.
+\il #1->\if@noftnote \index [lan]{#1}\else 
+                                           \edef \tempnumber {\thefootnote }...
+l.6 ...ing itself to \ili{Indo-European languages}
+                                                  . \il = index of languages
+I'm ignoring this; it doesn't match any \if.
+
+! Undefined control sequence.
+\il #1->\if@noftnote 
+                     \index [lan]{#1}\else \edef \tempnumber {\thefootnote }...
+l.6 ...elf to \ili{Indo-European languages}. \il =
+                                                   index of languages
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra \else.
+\il #1->\if@noftnote \index [lan]{#1}\else 
+                                           \edef \tempnumber {\thefootnote }...
+l.6 ...elf to \ili{Indo-European languages}. \il =
+                                                   index of languages
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \fi.
+\il ...dex@lan \expandafter {\tempnumber }{#1}\fi 
+                                                  
+l.6 ...elf to \ili{Indo-European languages}. \il =
+                                                   index of languages
+I'm ignoring this; it doesn't match any \if.
+
+! Undefined control sequence.
+\ia #1->\if@noftnote 
+                     \index {#1}\else \edef \tempnumber {\thefootnote }\expa...
+l.7 \iai{Dionysios Thrax}
+                          was also an important figure. %\ia = index of auth...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra \else.
+\ia #1->\if@noftnote \index {#1}\else 
+                                      \edef \tempnumber {\thefootnote }\expa...
+l.7 \iai{Dionysios Thrax}
+                          was also an important figure. %\ia = index of auth...
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \fi.
+\ia ...teindex \expandafter {\tempnumber }{#1}\fi 
+                                                  
+l.7 \iai{Dionysios Thrax}
+                          was also an important figure. %\ia = index of auth...
+I'm ignoring this; it doesn't match any \if.
+
+
+Package fontspec Info: Font family 'LibertinusSerif-Regular.otf(3)' created
+(fontspec)             for font 'LibertinusSerif-Regular.otf' with options
+(fontspec)             [Ligatures=TeX,Ligatures={TeX,Common},PunctuationSpace=0
+,Numbers={Proportional},BoldFont
+(fontspec)             = LibertinusSerif-Semibold.otf,ItalicFont =
+(fontspec)             LibertinusSerif-Italic.otf,BoldItalicFont =
+(fontspec)             LibertinusSerif-SemiboldItalic.otf,BoldSlantedFont =
+(fontspec)             LibertinusSerif-Semibold.otf,SlantedFont =
+(fontspec)             LibertinusSerif-Regular.otf,SlantedFeatures =
+(fontspec)             {FakeSlant=0.25},BoldSlantedFeatures =
+(fontspec)             {FakeSlant=0.25},SmallCapsFeatures =
+(fontspec)             {FakeSlant=0},Numbers=Lining].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Italic.otf]/OT:script=latn;language
+=dflt;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Italic.otf]/OT:script=latn;language
+=dflt;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;slant=0.25;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Regular.otf]/OT:script=latn;languag
+e=dflt;slant=0.25;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-SemiboldItalic.otf]/OT:script=latn;
+language=dflt;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-SemiboldItalic.otf]/OT:script=latn;
+language=dflt;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;slant=0.25;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->"[LibertinusSerif-Semibold.otf]/OT:script=latn;langua
+ge=dflt;slant=0.25;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 7\font =0\fontdimen 7\font 
+
+LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
+(Font)              scaled to size 9.00096pt on input line 9.
+LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
+(Font)              scaled to size 6.00064pt on input line 9.
+LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 9.
+LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
+(Font)              scaled to size 8.99904pt on input line 9.
+LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 9.
+LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 9.
+! Undefined control sequence.
+l.12 \ea
+        \label{ex:1:descartes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.13 \langinfo
+              {Latin}{}{personal knowledge}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \gll 
+                     
+l.14 \gll
+          cogit-o ergo sum \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15      think-1{\SG
+                     }.{\PRS}.{\IND} hence exist.1{\SG}.{\PRS}.{\IND}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15      think-1{\SG}.{\PRS
+                            }.{\IND} hence exist.1{\SG}.{\PRS}.{\IND}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15      think-1{\SG}.{\PRS}.{\IND
+                                   } hence exist.1{\SG}.{\PRS}.{\IND}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 ...ink-1{\SG}.{\PRS}.{\IND} hence exist.1{\SG
+                                                  }.{\PRS}.{\IND}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 ...SG}.{\PRS}.{\IND} hence exist.1{\SG}.{\PRS
+                                                  }.{\IND}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 ...RS}.{\IND} hence exist.1{\SG}.{\PRS}.{\IND
+                                                  }\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \glt 
+                     
+l.16 \glt
+          `I think therefore I am'
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.17 \z
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[3]
+! Undefined control sequence.
+l.25   \lsptoprule
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \lspbottomrule 
+                               
+l.30   \lspbottomrule
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Font shape `TU/DejaVuSansMono.ttf(0)/m/n' will be
+(Font)              scaled to size 8.62987pt on input line 39.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `DejaVuSansMono.ttf' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+LaTeX Warning: Citation 'Nordhoff2018' on page 4 undefined on input line 61.
+
+) [4]
+! Extra \else.
+\@include ...ediate \closeout \@partaux \fi \else 
+                                                  \deadcycles \z@ \@nameuse ...
+l.41  \include{chapters/01}
+                           
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \fi.
+\@include ...\deadcycles \z@ \@nameuse {cp@#1}\fi 
+                                                  \let \@auxout \@mainaux \e...
+l.41  \include{chapters/01}
+                           
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \else.
+\@include ...#1}\fi \let \@auxout \@mainaux \else 
+                                                  \@latex@warning {\noexpand...
+l.41  \include{chapters/01}
+                           
+I'm ignoring this; it doesn't match any \if.
+
+
+LaTeX Warning: \include should only be used after \begin{document} on input lin
+e 41.
+
+(./chapters/01.tex
+chapter without number
+
+LaTeX Warning: Citation 'Comrie1981' on page 5 undefined on input line 5.
+
+! Undefined control sequence.
+\is #1->\if@noftnote 
+                     \index [sbj]{#1}\else \edef \tempnumber {\thefootnote }...
+l.5 ...eful introduction to typology \is{typology}
+                                                  . \is = index of subjects
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra \else.
+\is #1->\if@noftnote \index [sbj]{#1}\else 
+                                           \edef \tempnumber {\thefootnote }...
+l.5 ...eful introduction to typology \is{typology}
+                                                  . \is = index of subjects
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \fi.
+\is ...dex@sbj \expandafter {\tempnumber }{#1}\fi 
+                                                  
+l.5 ...eful introduction to typology \is{typology}
+                                                  . \is = index of subjects
+I'm ignoring this; it doesn't match any \if.
+
+! Undefined control sequence.
+\is #1->\if@noftnote 
+                     \index [sbj]{#1}\else \edef \tempnumber {\thefootnote }...
+l.5 ...troduction to typology \is{typology}. \is =
+                                                   index of subjects
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra \else.
+\is #1->\if@noftnote \index [sbj]{#1}\else 
+                                           \edef \tempnumber {\thefootnote }...
+l.5 ...troduction to typology \is{typology}. \is =
+                                                   index of subjects
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \fi.
+\is ...dex@sbj \expandafter {\tempnumber }{#1}\fi 
+                                                  
+l.5 ...troduction to typology \is{typology}. \is =
+                                                   index of subjects
+I'm ignoring this; it doesn't match any \if.
+
+! Undefined control sequence.
+\il #1->\if@noftnote 
+                     \index [lan]{#1}\else \edef \tempnumber {\thefootnote }...
+l.6 ...ing itself to \ili{Indo-European languages}
+                                                  . \il = index of languages
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra \else.
+\il #1->\if@noftnote \index [lan]{#1}\else 
+                                           \edef \tempnumber {\thefootnote }...
+l.6 ...ing itself to \ili{Indo-European languages}
+                                                  . \il = index of languages
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \fi.
+\il ...dex@lan \expandafter {\tempnumber }{#1}\fi 
+                                                  
+l.6 ...ing itself to \ili{Indo-European languages}
+                                                  . \il = index of languages
+I'm ignoring this; it doesn't match any \if.
+
+! Undefined control sequence.
+\il #1->\if@noftnote 
+                     \index [lan]{#1}\else \edef \tempnumber {\thefootnote }...
+l.6 ...elf to \ili{Indo-European languages}. \il =
+                                                   index of languages
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra \else.
+\il #1->\if@noftnote \index [lan]{#1}\else 
+                                           \edef \tempnumber {\thefootnote }...
+l.6 ...elf to \ili{Indo-European languages}. \il =
+                                                   index of languages
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \fi.
+\il ...dex@lan \expandafter {\tempnumber }{#1}\fi 
+                                                  
+l.6 ...elf to \ili{Indo-European languages}. \il =
+                                                   index of languages
+I'm ignoring this; it doesn't match any \if.
+
+! Undefined control sequence.
+\ia #1->\if@noftnote 
+                     \index {#1}\else \edef \tempnumber {\thefootnote }\expa...
+l.7 \iai{Dionysios Thrax}
+                          was also an important figure. %\ia = index of auth...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra \else.
+\ia #1->\if@noftnote \index {#1}\else 
+                                      \edef \tempnumber {\thefootnote }\expa...
+l.7 \iai{Dionysios Thrax}
+                          was also an important figure. %\ia = index of auth...
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \fi.
+\ia ...teindex \expandafter {\tempnumber }{#1}\fi 
+                                                  
+l.7 \iai{Dionysios Thrax}
+                          was also an important figure. %\ia = index of auth...
+I'm ignoring this; it doesn't match any \if.
+
+! Undefined control sequence.
+l.12 \ea
+        \label{ex:1:descartes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.13 \langinfo
+              {Latin}{}{personal knowledge}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \gll 
+                     
+l.14 \gll
+          cogit-o ergo sum \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15      think-1{\SG
+                     }.{\PRS}.{\IND} hence exist.1{\SG}.{\PRS}.{\IND}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15      think-1{\SG}.{\PRS
+                            }.{\IND} hence exist.1{\SG}.{\PRS}.{\IND}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15      think-1{\SG}.{\PRS}.{\IND
+                                   } hence exist.1{\SG}.{\PRS}.{\IND}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 ...ink-1{\SG}.{\PRS}.{\IND} hence exist.1{\SG
+                                                  }.{\PRS}.{\IND}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 ...SG}.{\PRS}.{\IND} hence exist.1{\SG}.{\PRS
+                                                  }.{\IND}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 ...RS}.{\IND} hence exist.1{\SG}.{\PRS}.{\IND
+                                                  }\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \glt 
+                     
+l.16 \glt
+          `I think therefore I am'
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.17 \z
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[5
+
+
+
+
+]
+! Undefined control sequence.
+l.25   \lsptoprule
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \lspbottomrule 
+                               
+l.30   \lspbottomrule
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation 'Nordhoff2018' on page 6 undefined on input line 61.
+
+)
+! Extra \fi.
+\@include ...g \begin {document}}\@input@ {#1}\fi 
+                                                  
+l.41  \include{chapters/01}
+                           
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \fi.
+\include ...clude \expandafter {\@curr@file } \fi 
+                                                  
+l.41  \include{chapters/01}
+                           
+I'm ignoring this; it doesn't match any \if.
+
+[6]
+\openout2 = `chapters/02.aux'.
+
+ (./chapters/02.tex
+chapter without number
+[7
+
+
+
+]) [8]
+\openout2 = `chapters/03.aux'.
+
+ (./chapters/03.tex
+chapter without number
+
+LaTeX Warning: Citation 'Comrie1981' on page 9 undefined on input line 2.
+
+! Undefined control sequence.
+\is #1->\if@noftnote 
+                     \index [sbj]{#1}\else \edef \tempnumber {\thefootnote }...
+l.2 ...ty linguistics. \is{diversity linguistics}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [9
+
+
+
+
+
+]
+! Extra \else.
+\@include ...#1}\fi \let \@auxout \@mainaux \else 
+                                                  \@latex@warning {\noexpand...
+l.44   \include{chapters/03}
+                            
+I'm ignoring this; it doesn't match any \if.
+
+
+LaTeX Warning: \include should only be used after \begin{document} on input lin
+e 44.
+
+(./chapters/03.tex [10
+
+
+
+
+]
+chapter without number
+
+LaTeX Warning: Citation 'Comrie1981' on page 11 undefined on input line 2.
+
+! Undefined control sequence.
+\is #1->\if@noftnote 
+                     \index [sbj]{#1}\else \edef \tempnumber {\thefootnote }...
+l.2 ...ty linguistics. \is{diversity linguistics}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra \else.
+\is #1->\if@noftnote \index [sbj]{#1}\else 
+                                           \edef \tempnumber {\thefootnote }...
+l.2 ...ty linguistics. \is{diversity linguistics}}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+)
+! Extra \fi.
+\@include ...g \begin {document}}\@input@ {#1}\fi 
+                                                  
+l.44   \include{chapters/03}
+                            
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \fi.
+\include ...clude \expandafter {\@curr@file } \fi 
+                                                  
+l.44   \include{chapters/03}
+                            
+I'm ignoring this; it doesn't match any \if.
+
+(./backmatter.tex [11] [12
+
+
+]
+
+LaTeX Warning: Empty bibliography on input line 3.
+
+No file main.and.
+) [13
+
+
+
+
+
+]
+
+Package fontspec Info: Arimo-Regular scale = 0.812005781597008.
+
+
+Package fontspec Info: Arimo-Regular scale = 0.9564080491781695.
+
+LaTeX Font Info:    Font shape `TU/Arimo-Regular.ttf(2)/m/n' will be
+(Font)              scaled to size 23.91014pt on input line 52.
+ [14] (./main.aux (./chapters/01.aux) (./chapters/02.aux)
+(./chapters/03.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 48620 strings out of 476191
+ 990244 string characters out of 5813342
+ 2133061 words of memory out of 5000000
+ 68529 multiletter control sequences out of 15000+600000
+ 476794 words of font info for 132 fonts, out of 8000000 for 9000
+ 1349 hyphenation exceptions out of 8191
+ 122i,20n,136p,10625b,4687s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main.pdf (18 pages).

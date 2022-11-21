@@ -23,24 +23,25 @@
 %%%             Frontmatter                      %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
-\input{localcommands.tex}
+%\input{localcommands.tex}
 \maketitle
 \frontmatter
 \currentpdfbookmark{Contents}{name} % adds a PDF bookmark
 {\sloppy\tableofcontents}
 %% remove the % in the following lines if your book has these elements
-%  \include{chapters/preface}
-%  \include{chapters/acknowledgments}
-%  \include{chapters/abbreviations}
-\mainmatter
+ % \include{chapters/preface}
+  %\include{chapters/acknowledgments}
+% \include{chapters/abbreviations}
+%\mainmatter
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%             Chapters                         %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% \include{chapters/01}  %add a percentage sign in front of the line to exclude this chapter from book
+ \include{chapters/01}  
 % copy the line above and adapt as necessary
-
+ \include{chapters/02} 
+  \include{chapters/03} 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%             Backmatter                       %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
